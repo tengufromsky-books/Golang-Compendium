@@ -5,5 +5,5 @@
 * [Goroutines](goroutines.md)
 * [Channels](channels.md)
 * [Небуферизованные каналы](nebuferizovannie-kanali.md)
-* Буферизованные каналы
+* [Буферизованные каналы](buferizovannie-kanali.md)
 
