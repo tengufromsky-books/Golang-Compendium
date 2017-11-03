@@ -4,4 +4,6 @@
 * [First Chapter](chapter1.md)
 * [Goroutines](goroutines.md)
 * [Channels](channels.md)
+* Небуферизованные каналы
+* Буферизованные каналы
 
