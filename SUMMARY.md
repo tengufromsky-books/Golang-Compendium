@@ -6,4 +6,5 @@
 * [Channels](channels.md)
 * [Небуферизованные каналы](nebuferizovannie-kanali.md)
 * [Буферизованные каналы](buferizovannie-kanali.md)
+* [inside channels](inside-channels.md)
 
